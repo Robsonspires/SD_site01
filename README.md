@@ -6,3 +6,10 @@
 ## Para baixar na sua máquina basta dar um comando ##
 - git clone 'caminhodo_projeto'
   
+//-------------------------//
+#ALTERAÇÕES PRINCIPAIS
+
+###Alterações nas imagens
+###Alteração no texto
+###No carrossel as imagens e o tamanho dele, para não pegar a tela toda, não achei como centralizar, coloquei ele com 50% de tamanho e com uma margem de 20%
+###Alterei alguns texto dos blocos de textos.
